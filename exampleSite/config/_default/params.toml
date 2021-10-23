@@ -1,0 +1,37 @@
+#################### default parameters ############################
+logo = "images/logo.png"
+logo_white = "images/logo-white.png"
+logo_width = "150x"
+favicon = "images/favicon.png"
+# Meta data
+description = "Find answers to the deep questions of life"
+author = "Jamila Mustapha"
+og_image = "/images/placeholder.jpg"
+# contact info
+address = "Sunset View, Berger Street, Midrand, Johannesburg, South Africa"
+skype = "jamilamustapha6"
+email = "hello@jamilamustapha.com"
+# contact form action
+contact_form_action = "https://formspree.io/f/mbjqekqa" # contact form works with https://formspree.io
+# custom script on header
+custom_script= ""
+# search
+search = true
+# widget
+widgets = ["recommended", "categories"]
+# main sections
+mainSections = ["articles"]
+# page not found image
+page_not_found_image = "images/404.png"
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"

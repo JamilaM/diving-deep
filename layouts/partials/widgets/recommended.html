@@ -1,0 +1,20 @@
+<div class="col-lg-12">
+  <div class="widget">
+    <h2 class="post-list">{{i18n `recommended`}}</h2>
+    <div class="widget-body">
+      <div class="widget-list">
+        {{ $related := (where site.RegularPages "Section" "articles") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+        {{ range $i, $e:= last 5 $related }}
+        
+        <a class="justify-content-center align-items-center" href="{{.Permalink}}">
+         
+          <div class="post-list border-bottom">
+            <p>{{.Title}}</p>
+          </div>
+        </a>
+        {{ end }}
+       
+      </div>
+    </div>
+  </div>
+</div>

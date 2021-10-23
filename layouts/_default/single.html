@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<!-- checking blog -->
+{{ if or (eq .Section "article") (eq .Section "articles") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-8 mb-5">
+        <article>
+
+          <ul class="post-meta mt-5">
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"  style="margin-right:5px;margin-top:-4px" class="text-dark" viewBox="0 0 16 16">
+                <path d="M5.5 10.5A.5.5 0 0 1 6 10h4a.5.5 0 0 1 0 1H6a.5.5 0 0 1-.5-.5z"/>
+                <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"/>
+                <path d="M2.post-meta5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"/>
+              </svg>
+              <span>{{.PublishDate.Format "02 Jan, 2006"}}</span>
+            </li>
+          </ul>
+          <h1 class="mb-2">{{.Title}}</h1>
+         <ul class="post-meta mb-4"><li>Author: <strong>{{ .Params.author }}</strong></li></ul>
+          <div class="content text-left">
+            {{.Content}}
+          </div>
+          <ul class="post-meta my-4">
+            {{ if .Params.categories }}
+            <li>
+              {{ range $i,$e:= .Params.categories }}
+              <a href="{{`categories/` | relLangURL}}{{index (split . `/`) 0}}">{{- index (split . "/") 0 -}}</a>
+              {{ if (index (split . "/") 1)}}
+              <a href="{{`categories/` | relLangURL}}{{index (split . `/`) 0}}/{{index (split . `/`) 1}}">{{- index (split . "/") 1 -}}</a>
+              {{ end }}
+              {{ end }}
+            </li>
+            {{ end }}
+          </ul>
+        </article>
+      </div>
+      <div class="col-lg-12">
+          <div class="widget-blocks">
+            <div class="row justify-content-center">
+              {{ if .Params.widgets }}
+              {{ .Scratch.Set "widget" .Params.widgets }}
+              {{ else }}
+              {{ .Scratch.Set "widget" site.Params.widgets }}
+              {{ end }}
+              {{ partial "widgets/widget-wrapper" ( dict "Widgets" (.Scratch.Get "widget") "Scope" . )}}
+            </div>
+          </div>
+        </div>
+        <!-- comments -->
+        {{ if .Site.DisqusShortname }}
+        <div class="mt-5">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+<!-- regular page -->
+{{ else }}
+{{ .Render "default" }}
+{{ end }}
+<!-- /regular page -->
+
+{{ end }}

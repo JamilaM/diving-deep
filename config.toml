@@ -1,0 +1,48 @@
+# This file is for render site varibles and plugins
+# don't remove this file.
+# The presence of this file is for compatibility with Blogdown and Forestry.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
+
+
+######################### site variables ##############################
+# customize your color and font from here.
+[params.variables]
+primary_color = "#E3C873"
+body_color = "#fff"
+text_color = "#120C0E"
+text_color_dark = "#120C0E"
+text_color_light = "#120C0E"
+border_color = "#393131"
+black = "#000"
+white = "#fff"
+light = "#393131"
+dark = "#120C0E"
+
+# font variable
+# Give your font name from google font. add font weight using ":wght@" and separate by ";"
+# example: "Work Sans:wght@400;500;600"
+primary_font = "Raleway:wght@400;500;600;700"
+primary_font_type = "sans-serif" # [serif/sans-serif/monospace]
+secondary_font = "Dancing Script:wght@400"
+secondary_font_type = "cursive" # [serif/sans-serif/monospace]
+
+
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"

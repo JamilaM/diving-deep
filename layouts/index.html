@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-10 mb-5">
+        <div>
+        <p class="section-title my-5 text-center">All Posts</p>
+        </div>
+        {{ if site.Params.search }}
+        <!-- search -->
+        <form action="{{ `search`| relLangURL }}" class="search my-5 mx-auto">
+          <input id="search-query" name="s" type="search" placeholder="Search this site">
+        </form>
+        {{ end }} 
+        {{ range (.Site.RegularPages.GroupByDate "2006") }}
+        {{ if and (gt .Key 1) (gt (where .Pages "Type" "post") 0) }}
+        <div class="year mx-auto my-5">
+          <h1 class="text-center">{{ .Key }}</h1>
+        </div>
+        {{ range (where .Pages "Type" "post") }}
+      
+           <div class="border-bottom">
+              <div class=" row mt-3 post-list">
+                <p class=" col-lg-2">{{.PublishDate.Format "Jan 02"}}</p>
+                <p><a class="col-lg-10 post-title" href="{{.RelPermalink}}">{{ .Title }}</a></p>
+              </div>
+           </div>
+          {{ end }}
+         {{ end }}
+         {{ end }}
+          
+        </div>
+      
+     
+  </div>
+</div>
+</section>
+
+{{ end }}
