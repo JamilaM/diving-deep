@@ -8,8 +8,17 @@ title = "Testing a new document"
 type = "post"
 
 +++
-There goes my heart again.
+### There goes my heart again.
 
 There goes my heart again
 
 there goes my heart again and again
+
+Today **is the day**
+
+[But we roll](# "Same here")
+
+* There goes my heart again.
+* There goes my heart again
+* there goes my heart again and again
+* Today **is the day**
