@@ -3,7 +3,6 @@ author = "Jamila Mustapha"
 categories = []
 date = 2021-09-26T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Testing a new document"
 type = "post"
