@@ -250,7 +250,8 @@ a:hover {
       font-family: "Raleway", sans-serif;
       color: #fff;
       line-height: 1;
-      display: inline-block; }
+      display: inline-block;
+      padding: 20px; }
     .navigation .nav-item:last-child::after {
       display: none; }
     .navigation .nav-item.dropdown .nav-link {
@@ -786,3 +787,6 @@ footer .section {
   .form-control:focus {
     border-color: #E3C873;
     box-shadow: none; }
+
+#mce-success-response {
+  color: #fff !important; }
