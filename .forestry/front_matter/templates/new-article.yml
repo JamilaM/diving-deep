@@ -23,3 +23,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- exampleSite/content/english/articles/what-happens-when-we-sleep-an-unusual-explanation.html
