@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/english/articles/how-to-win-the-game-of-life-part-1-living-in-a-simulation.md
 - exampleSite/content/english/articles/what-happens-when-we-sleep-an-unusual-explanation.md
