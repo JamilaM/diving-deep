@@ -34,7 +34,7 @@ And so we are going to begin by understanding exactly who your own specific vill
 
 Then and only then can we launch an offensive.
 
-### Who are these village people?
+### **Who are these village people?**
 
 Village people as I understand them and use them in this post are a personification of everything that sabotages us on our path of progress, forces that hinder our growth.
 
@@ -46,9 +46,9 @@ _They are so powerful that most of what we do and what we fail to do is dictated
 
 **Your individual village people are the limiting and self-sabotaging believes and subconscious programming that you harbour within that affect your reality.**
 
-### How do your subconscious village people affect your reality?
+### **How do your subconscious village people affect your reality?**
 
-The subconscious mind is a repository of the beliefs that control our realities, but most times, we are not even aware of what is up there. This is because most of the subconscious beliefs we have were formed during the most vulnerable stages of our lives, between the ages of 1 to 7 or during our most relaxing and suggestible stages, when we are not aware of what is happening.
+The subconscious mind is a **repository** of the beliefs that control our realities, but most times, we are not even aware of what is up there. This is because most of the subconscious beliefs we have were formed during the most vulnerable stages of our lives, between the ages of 1 to 7 or during our most relaxing and suggestible stages, when we are not aware of what is happening.
 
 Yet, they control most of our decision in our adult life.
 
@@ -58,19 +58,19 @@ Reality is subjective and a very individual thing because none of us has exactly
 
 We are each transmitting this vibrational offering and receiving their out-picturing into our realities.
 
-You must understand, belief is a powerful force. What you believe in just works for you, positively or negatively. They are the strong force behind your truths.
+You must understand, belief is a powerful force. **What you believe in just works for you, positively or negatively. They are the strong force behind your truths.**
 
 We are creative beings; the universe is moulding itself to fit into our worldview. Everyone has his own truth and each truth seems to be valid according to his own experiences.
 
 This is why the most unempowering thing you can do to yourself is to limit yourself based on what you perceive to be other people's truth. Why not create your own instead? Instead of taking on other people's limiting beliefs, why not program your subconscious with empowering ones?
 
-Everything is possible, EVERYTHING. That's if you can find a way to summon the right beliefs.
+**Everything is possible, EVERYTHING. That's if you can find a way to summon the right beliefs.**
 
 From an outward perspective, beliefs can freeze you from taking action or propel you forward.
 
 If for example, you believe that you need to work very hard to make money or to be deserving of your income, you'll see people investing in opportunities and making money while they sleep, but you will not take the steps to do the same, even though you're exhausted and you need the money, and on a conscious level, you even admire the soft lifestyle.
 
-And here's the most unfortunate thing. Even if you summon up the courage to invest, it will flop. Because there's a contradiction. You're putting off the signal that says "_I must work hard to make money, easy money is not good money_".
+And here's the most unfortunate thing. Even if you summon up the courage to invest, it will flop. Because there's a contradiction. You're putting off the signal that says "**_I must work hard to make money, easy money is not good money_**".
 
 That signal is going to bring to you exactly the same set of experiences that match it. You're like a radio receiver. You get what you put out.
 
@@ -98,7 +98,7 @@ You only need to do this once for any set of limiting beliefs. I recommend worki
 
 You need to get comfortable with meditating first before trying this technique. 
 
-If you're the type you practices mindfulness meditation, you can include this at the end of your session when you're still in the meditative state:
+**If you're the type you practices mindfulness meditation, you can include this at the end of your session when you're still in the meditative state:**
 
 _Imagine yourself going up a staircase into a room. In the room there's a table and a chair with a computer on the table._
 
@@ -114,13 +114,13 @@ _Gently stand up from the chair and leave the room. Come down the stairs._
 
 _You can now open your eyes._
 
-An example of how you can switch from limiting beliefs to empowering ones:
+**An example of how you can switch from limiting beliefs to empowering ones:**
 
-_From: Money is scarce - To: Money is all around me_
+**_From_**_: Money is scarce - **To**: Money is all around me_
 
-_From: Life is hard - To: Life is exciting_
+**_From:_** _Life is hard - **To**: Life is exciting_
 
-_From: People are wicked - To: Deep down everyone is good. I chose to go beyond the superficial and see the good in all._
+**_From_**_: People are wicked - **To**: Deep down everyone is good. I chose to go beyond the superficial and see the good in all._
 
 **_Warning: Don’t do this just before you go to bed, you’ll sleep light and fitful because your brain hardware will upgrade itself according to your new programming._**
 
@@ -132,13 +132,13 @@ It uses a mixture of acupuncture, Neuro-linguistic programming and psychology to
 
 The idea is for you to tap on specific meridians on your body while focusing on the emotions you're feeling and to vocalise the things your mind is telling you about the situation.
 
-This stuff is unbelievably powerful. I've cleared an insane amount of limiting blocks in such a short period of time with this technique.
+This stuff is unbelievably powerful. I've cleared an insane amount of limiting blocks and trauma in such a short period of time with this technique.
 
 I teach EFT in my [3 Days Reclaim Your Life From Stress Masterclass](english/coaching)
 
 #### **Breathwork**
 
-The breath is si simple, yet so profound. When you combine breathing with your awareness, you start to get out of the hypnotic zombie mode that you've living your entire life. 
+The breath is so simple, yet so profound. When you combine breathing with your awareness, you start to get out of the hypnotic zombie mode that you've living your entire life. 
 
 The advantage of using Breathwork is that you don’t need to identify the specific blocks, but you need to make an intention to clear blocks that are stopping you from doing something you really want to do.
 
@@ -154,7 +154,7 @@ _As you breathe, suck this energy to the top of your head. When you feel the ene
 
 _Breath out and relax. Repeat several times._
 
-_Note: At the beginning, you probably will not feel the energy moving and that is fine. That doesn't mean nothing is happening. Just trust the process._
+**_Note: At the beginning, you probably will not feel the energy moving and that is fine. That doesn't mean nothing is happening. Just trust the process._**
 
 #### **Affirmations**
 
