@@ -63,7 +63,7 @@ You must understand, belief is a powerful force. What you believe in just works 
 
 We are creative beings; the universe is moulding itself to fit into our worldview. Everyone has his own truth and each truth seems to be valid according to his own experiences.
 
-This is why the most unempowering thing you can do to yourself is to limit yourself based on what you perceive to be other people's truth. Why not create your own instead? Instead of taking on other people's limiting beliefs, why not program your subconscious with empowering ones? 
+This is why the most unempowering thing you can do to yourself is to limit yourself based on what you perceive to be other people's truth. Why not create your own instead? Instead of taking on other people's limiting beliefs, why not program your subconscious with empowering ones?
 
 Everything is possible, EVERYTHING. That's if you can find a way to summon the right beliefs.
 
@@ -71,7 +71,7 @@ From an outward perspective, beliefs can freeze you from taking action or propel
 
 If for example, you believe that you need to work very hard to make money or to be deserving of your income, you'll see people investing in opportunities and making money while they sleep, but you will not take the steps to do the same, even though you're exhausted and you need the money, and on a conscious level, you even admire the soft lifestyle.
 
-And here's the most unfortunate thing. Even if you summon up the courage to invest, it will flop. Because there's a contradiction. You're putting off the signal that says "_I must work hard to make money, easy money is not good money_". 
+And here's the most unfortunate thing. Even if you summon up the courage to invest, it will flop. Because there's a contradiction. You're putting off the signal that says "_I must work hard to make money, easy money is not good money_".
 
 That signal is going to bring to you exactly the same set of experiences that match it. You're like a radio receiver. You get what you put out.
 
@@ -81,7 +81,7 @@ All this might sound gloomy but here's the good news.
 
 If everything that is holding you back from living the life of your dreams exists within you and is not some unseen, unknown outside force controlling you, then surely you can change things.
 
-You can clear your sabotaging beliefs and reprogram your subconscious mind with new empowering ones that will propel you forward towards the life you've always dreamt of. 
+You can clear your sabotaging beliefs and reprogram your subconscious mind with new empowering ones that will propel you forward towards the life you've always dreamt of.
 
 You can get rid of your village people, or at least the ones you don't like.
 
@@ -93,23 +93,69 @@ There are so many modalities available. I'll list here only the ones I've tried:
 
 #### **Meditation**
 
-To use meditation to clear subconscious blocks, you need to be able to identify the blocks. Then in a meditative state, you get into your subconscious mind and delete the beliefs and replace them with new empowering ones. Poof! just like that, they are gone. 
+To use meditation to clear subconscious blocks, you need to be able to identify the blocks. Then in a meditative state, you get into your subconscious mind and delete the beliefs and replace them with new empowering ones. Poof! just like that, they are gone.
 
 You only need to do this once for any set of limiting beliefs. I recommend working with a set of three at a time.
 
-_Warning: Don’t do this just before you go to bed, you’ll sleep light and fitful because your brain hardware will upgrade itself according to your new programming._
+You need to get comfortable with meditating first before trying this technique. 
 
-#### **Emotional Freedom Teachnique (EFT)**
+If you're the type you practices mindfulness meditation, you can include this at the end of your session when you're still in the meditative state:
 
-EFT is a very powerful healing modality. It requires you to be able to feel your fear and hesitations or whatever emotion is holding you back, and then, you use the feeling as a guide to clear the energetic blocks. 
+_Imagine yourself going up a staircase into a room. In the room there's a table and a chair with a computer on the table._
 
-And since it uses the meridians in your energy the body, it is a gateway to the subconscious mind, so you’re able to replace the limiting beliefs with new empowering ones. It works instantly. I teach EFT in my [3 Days Reclaim Your Life From Stress Masterclass](english/coaching)
+_Get familiar with the environment. Notice the colour of the computer and the chair and the table. Don't worry if you think you're making things up, that's how it works._
+
+_Sit on the chair. Imagine there's a button that brings up your limiting beliefs and another button that deletes and another button that saves. See these buttons clearly in your mind's eye._
+
+_Now, click on the scan button to bring up the specific limiting beliefs you want to work on. See them clearly written on the screen. Delete them._ 
+
+_Replace them with empowering ones. See the new empowering beliefs written clearly on the screen. Click on the Save button._
+
+_Gently stand up from the chair and leave the room. Come down the stairs._
+
+_You can now open your eyes._
+
+An example of how you can switch from limiting beliefs to empowering ones:
+
+_From: Money is scarce - To: Money is all around me_
+
+_From: Life is hard - To: Life is exciting_
+
+_From: People are wicked - To: Deep down everyone is good. I chose to go beyond the superficial and see the good in all._
+
+**_Warning: Don’t do this just before you go to bed, you’ll sleep light and fitful because your brain hardware will upgrade itself according to your new programming._**
+
+#### **Emotional Freedom Technique (EFT)**
+
+EFT is a very powerful healing modality. It requires you to be able to feel your fear and hesitations or whatever emotion is holding you back, and then, you use the feeling as a guide to clear the energetic blocks.
+
+It uses a mixture of acupuncture, Neuro-linguistic programming and psychology to access your energy body and subconscious mind. 
+
+The idea is for you to tap on specific meridians on your body while focusing on the emotions you're feeling and to vocalise the things your mind is telling you about the situation.
+
+This stuff is unbelievably powerful. I've cleared an insane amount of limiting blocks in such a short period of time with this technique.
+
+I teach EFT in my [3 Days Reclaim Your Life From Stress Masterclass](english/coaching)
 
 #### **Breathwork**
 
-The advantage of using Breathwork is that you don’t need to identify the specific blocks, but you need to make an intention to clear blocks that are stopping you from doing something you really want to do. 
+The breath is si simple, yet so profound. When you combine breathing with your awareness, you start to get out of the hypnotic zombie mode that you've living your entire life. 
 
-I’ve used Shamanic breathing and The breathing technique in Dr Joe Dispenza’s book, Becoming Supernatural. The meditation is called pulling the mind out of the body and here’s a link to a version of it and the book
+The advantage of using Breathwork is that you don’t need to identify the specific blocks, but you need to make an intention to clear blocks that are stopping you from doing something you really want to do.
+
+The idea here is to use certain breathing techniques to move energy around or outside of your body. In this case, what you're moving are the energetic blocks hindering your progress. 
+
+**A simple one to do:**
+
+_Sit in a quiet place with your back erect, make sure you won't be disturbed for at least 10 minutes. Make an intention for whatever blocks you want to work on (if you don't have anything specific in mind, go general)._
+
+_Take a deep breath at the same time squeeze the lower part of your torso (from your perineum to the sacral area, just at the base of your breastbone. As you squeeze, imagine that your spine is a tube, and energy is moving from that tube to the top of your head._
+
+_As you breathe, suck this energy to the top of your head. When you feel the energy is there, hold while keeping your attention at the top of your head for at least one minute._ 
+
+_Breath out and relax. Repeat several times._
+
+_Note: At the beginning, you probably will not feel the energy moving and that is fine. That doesn't mean nothing is happening. Just trust the process._
 
 #### **Affirmations**
 
@@ -117,12 +163,23 @@ With affirmations, you identify the version of yourself that you want to be, you
 
 The key with affirmations is you need to believe what you’re saying, put meaning behind the words. This might be difficult for a lot of people, especially if you don’t yet feel like the person you want to be.
 
-But you have to understand that everything that you’ve ever wanted and the person you want to be, they all already exist in an endless sea of possibilities that is the universe. There’s no past, there’s no future. Everything exists right now. Time is just a filter, an illusion created by our minds to be able to live in this dimension. When you align your energy with a certain reality, the reality shows up in your life. It already exists, everything already exists.
+But you have to understand that everything that you’ve ever wanted and the person you want to be, all already exist in an endless sea of possibilities that is the universe. There’s no past, there’s no future. Everything exists right now. Time is just a filter, an illusion created by our minds to be able to live in this dimension. When you align your energy with a certain reality, the reality shows up in your life. It already exists, everything already exists.
 
 Affirmation is a way for you to align your energy with the new reality. You are not deceiving yourself; you are drawing something that already exists into your reality.
 
+Some examples of powerful affirmations:
+
+* _I am smart_
+* _I am powerful_
+* _I am abundant_
+* _I am loved_
+* _I am taken care of_
+* _I am joyful_
+
+***
+
 Take whichever technique resonates best with you. Combine techniques for speedy progress. And show up and do the work. The new version of you that is unlimited and unhindered is not going to show up when you’re thinking and doing the same thing over and over again.
 
-I wish you luck
+I wish you luck.
 
-Also don’t forget to check out my 3 days de-stress yoyr s …..
+Also, don’t forget to check out my [3 Days Reclaim Your Life From Stress Masterclass](english/coaching)
