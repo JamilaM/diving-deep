@@ -4,7 +4,7 @@ categories = ["EFT", "psychology"]
 date = 2021-11-05T12:00:00Z
 description = "Identify the subconcious blocks sabotaging your success in life and rid yourself of them"
 image = "/images/sacred1.jpg"
-title = "How to Identify the Village People Sabotaging your Life and What to do"
+title = "How to Identify the Village People Sabotaging your Life"
 type = "post"
 
 +++
