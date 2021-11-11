@@ -34,4 +34,4 @@ I hope you find the answers you are seeking and the peace that comes with it.
 
 Salaam!
 
-Psst: If you are suffering from any form of stress, mental, physical, emotional and want some relief and peace of mind, join my [3 Days Reclaim Your Life From Stress Masterclass](english/coaching)
+Psst: If you are suffering from any form of stress, mental, physical, emotional and want some relief and peace of mind, join my [3 Days Reclaim Your Life From Stress Masterclass](coaching)
