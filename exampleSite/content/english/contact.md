@@ -4,4 +4,4 @@ layout: "contact"
 draft: false
 ---
 
-I'm always open to hearing from you. Reach out to me using any of the information on this page or through my social media handles
+Reach out to me using any of the information on this page or fill out the contact form. I'll love to hear from you.

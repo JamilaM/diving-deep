@@ -11,11 +11,11 @@ url = "about"
 weight = 2
 
 [[main]]
-name = "Coaching"
+name = "Podcast"
 url = "coaching"
 weight = 3
 
 [[main]]
-name = "Contact"
-url = "contact"
+name = "Videos"
+url = "https://www.youtube.com/channel/UCtzgR46uuVlL6Vc9AellN6g"
 weight = 4

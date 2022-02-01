@@ -4,13 +4,13 @@ logo_white = "images/logo-white.png"
 logo_width = "150x"
 favicon = "images/favicon.png"
 # Meta data
-description = "Find answers to the deep questions of life"
+description = "Remember the truth of who you are"
 author = "Jamila Mustapha"
 og_image = "/images/placeholder.jpg"
 # contact info
-address = "Sunset View, Berger Street, Midrand, Johannesburg, South Africa"
+address = "Global"
 skype = "jamilamustapha6"
-email = "hello@jamilamustapha.com"
+email = "hello@infinitude11.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/mbjqekqa" # contact form works with https://formspree.io
 # custom script on header
