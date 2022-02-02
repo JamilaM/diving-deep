@@ -3,7 +3,6 @@ author = "Jamila Mustapha"
 categories = ["psychology", "esoteric", "Awakening"]
 date = 2022-02-02T15:00:00Z
 description = "How using your emotional guidance system can help you win the game of life"
-draft = true
 image = "/images/sacred1.jpg"
 title = "Winning the Game of Life – Part 3: Your Emotional Guidance System"
 type = "post"
