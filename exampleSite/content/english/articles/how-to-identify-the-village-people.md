@@ -96,7 +96,7 @@ To use meditation to clear subconscious blocks, you need to be able to identify 
 
 You only need to do this once for any set of limiting beliefs. I recommend working with a set of three at a time.
 
-You need to get comfortable with meditating first before trying this technique. 
+You need to get comfortable with meditating first before trying this technique.
 
 **If you're the type you practices mindfulness meditation, you can include this at the end of your session when you're still in the meditative state:**
 
@@ -106,7 +106,7 @@ _Get familiar with the environment. Notice the colour of the computer and the ch
 
 _Sit on the chair. Imagine there's a button that brings up your limiting beliefs and another button that deletes and another button that saves. See these buttons clearly in your mind's eye._
 
-_Now, click on the scan button to bring up the specific limiting beliefs you want to work on. See them clearly written on the screen. Delete them._ 
+_Now, click on the scan button to bring up the specific limiting beliefs you want to work on. See them clearly written on the screen. Delete them._
 
 _Replace them with empowering ones. See the new empowering beliefs written clearly on the screen. Click on the Save button._
 
@@ -128,7 +128,7 @@ _You can now open your eyes._
 
 EFT is a very powerful healing modality. It requires you to be able to feel your fear and hesitations or whatever emotion is holding you back, and then, you use the feeling as a guide to clear the energetic blocks.
 
-It uses a mixture of acupuncture, Neuro-linguistic programming and psychology to access your energy body and subconscious mind. 
+It uses a mixture of acupuncture, Neuro-linguistic programming and psychology to access your energy body and subconscious mind.
 
 The idea is for you to tap on specific meridians on your body while focusing on the emotions you're feeling and to vocalise the things your mind is telling you about the situation.
 
@@ -138,11 +138,11 @@ I teach EFT in my [3 Days Reclaim Your Life From Stress Masterclass](english/coa
 
 #### **Breathwork**
 
-The breath is so simple, yet so profound. When you combine breathing with your awareness, you start to get out of the hypnotic zombie mode that you've living your entire life. 
+The breath is so simple, yet so profound. When you combine breathing with your awareness, you start to get out of the hypnotic zombie mode that you've living your entire life.
 
 The advantage of using Breathwork is that you don’t need to identify the specific blocks, but you need to make an intention to clear blocks that are stopping you from doing something you really want to do.
 
-The idea here is to use certain breathing techniques to move energy around or outside of your body. In this case, what you're moving are the energetic blocks hindering your progress. 
+The idea here is to use certain breathing techniques to move energy around or outside of your body. In this case, what you're moving are the energetic blocks hindering your progress.
 
 **A simple one to do:**
 
@@ -150,7 +150,7 @@ _Sit in a quiet place with your back erect, make sure you won't be disturbed for
 
 _Take a deep breath at the same time squeeze the lower part of your torso (from your perineum to the sacral area, just at the base of your breastbone. As you squeeze, imagine that your spine is a tube, and energy is moving from that tube to the top of your head._
 
-_As you breathe, suck this energy to the top of your head. When you feel the energy is there, hold while keeping your attention at the top of your head for at least one minute._ 
+_As you breathe, suck this energy to the top of your head. When you feel the energy is there, hold while keeping your attention at the top of your head for at least one minute._
 
 _Breath out and relax. Repeat several times._
 
@@ -180,5 +180,3 @@ Some examples of powerful affirmations:
 Take whichever technique resonates best with you. Combine techniques for speedy progress. And show up and do the work. The new version of you that is unlimited and unhindered is not going to show up when you’re thinking and doing the same thing over and over again.
 
 I wish you luck.
-
-Also, don’t forget to check out my [3 Days Reclaim Your Life From Stress Masterclass](english/coaching)
