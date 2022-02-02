@@ -1,7 +1,7 @@
 #################### default parameters ############################
 logo = "images/logo.png"
 logo_white = "images/logo-white.png"
-logo_width = "150x"
+logo_width = "150px"
 favicon = "images/favicon.png"
 # Meta data
 description = "Remember the truth of who you are"

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "Diving Deep with Jamila"
+title = "Remember who you are"
 theme = "reporter"
 # post pagination
 paginate = "7"
