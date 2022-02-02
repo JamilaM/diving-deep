@@ -4,7 +4,7 @@ categories = ["Spirituality", "consciousness"]
 date = 2021-11-04T12:00:00Z
 description = "A delve into the spiritual nature of sleep"
 image = "/images/sacred5.jpg"
-title = "What Happens When We Sleep (An Unusual Explanation)"
+title = "What Happens When We Sleep? An Esoteric Explanation"
 type = "post"
 
 +++
@@ -82,18 +82,16 @@ To exist in this plain, we rely heavily on these daily trips to the divine onene
 
 You must understand that life on earth is not easy on the soul; embodiment is not easy on the soul.
 
-There’s this metaphor I once read that does justice to this. 
+There’s this metaphor I once read that does justice to this.
 
 Imagine yourself now, the way you are in your body, as big as you are, imagine being compressed into a seasoning cube and this seasoning cube becomes your new body that you have to use to navigate the earth. How hard will that be for you?
 
-Yet that is similar to what the soul is doing in embodiment. We go from being limitless, weightless beings enjoying a state of unending bliss to being bound in matter and experiencing the struggles that characterise human life on earth. 
+Yet that is similar to what the soul is doing in embodiment. We go from being limitless, weightless beings enjoying a state of unending bliss to being bound in matter and experiencing the struggles that characterise human life on earth.
 
 This is why babies (new incarnating souls) sleep all the time. To survive, they need to continuously go back to their natural state of remembrance until they adjust to being in embodiment.
 
 But I must tell you, it is a worthy sacrifice. There’s no better way for the soul to quickly evolve than being in embodiment and living this life. It’s all for a good cause.
 
-In conclusion, I’d say, take your return journey every night with all seriousness; it is a very spiritual endeavour. Also, always remember that you are not alone, we are never alone. We never have been, never will be. 
+In conclusion, I’d say, take your return journey every night with all seriousness; it is a very spiritual endeavour. Also, always remember that you are not alone, we are never alone. We never have been, never will be.
 
 There’s the loving presence of God available to us at all times. Quiet your mind, open up your heart and tune in. Soon, I’ll write about how you can do this so that you can start to receive more of this love. Stay tuned and subscribe.
-
-**Are you struggling with stress and lack of quality sleep?** [**Join my 3 days De-stressing Masterclass here**](/coaching)
