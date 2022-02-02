@@ -14,77 +14,73 @@ type = "post"
 >
 > Jamila
 
-I understand that it might rub some of you off the wrong way that I’m calling life a game, but there’s truly no other word that best describes this experience. It is not real and it is not serious.
+I understand that it might rob some of you off the wrong way that I’m calling life a game, but there’s truly no other word that best describes this experience. It is not real and it is not serious. 
 
-I’ll explain.
+I’ll explain
 
-Imagine yourself at the best home that you could possibly be. This home is pleasant, blissful, loving. You’re joyful, free and completely and utterly yourself. But it can also get boring. You long for some adventure, an environment that offers some contrast to the perfect one that you’re in.
+Imagine yourself at the best home that you could possibly be. This home is pleasant, blissful, loving. You’re joyful, free and completely and utterly yourself. But it can also get boring. You long for some adventure; an environment that offers some contrast to the perfect one that you’re in.
 
-So, you decide to play a game. I’ll call you **The Player**.
+So you decide to play a game. I’ll call you **The Player**.
 
-Imagine having this big TV screen in your living room. The screen is a portal to a game. 
+Imagine having this big TV screen in your living room. The screen is a portal to a game. To play this game, you the player have to project a part of your awareness into a character inside the screen. The projected part of yourself gets to play this game and you get to experience it. 
 
-To play this game, you the player have to project a part of your awareness into a character inside the screen. The projected part of yourself gets to play this game and you get to experience it.
+You do have a playing pad, but is not a control pad. It is a communications pad that you use to guide this projected part of yourself which from here on I’ll call **The Character**. The character has absolute freedom to either follow your guidance or not.
 
-You do have a playing pad but is not a control pad. It is a communications pad that you use to guide this projected part of yourself which from here on I’ll call **The Character.** The character has absolute freedom to either follow your guidance or not.
+While you have a game plan, which The Character knows about only at a subconscious level, following it is totally up to it and how much guidance it allows from you.
 
-While you have a game plan, which the character knows about, following it is totally up to it and how much guidance it allows from you.
+This game offers the possibility to have anything you want; to be anyone. There are infinite possibilities. 
 
-This game offers the possibility to have anything you want, to be anyone. There are infinite possibilities.
+The game is completely immersive. The character will be able to feel, hear, see, touch and taste. Everything will feel as real as it can ever get. 
 
-The game is completely immersive. The character will be able to feel, hear, see, touch and taste. Everything will feel as real as it can ever get.
+The agenda of the game is simple for the character 
+1.	Have a mighty big adventure 
+2.	Pursue its bliss
+3.	Remember who it is and where it comes from 
+4.	Become a better version of itself
 
-The agenda of the game is simple for the character:
+But the environment of the game is not a pleasant one, which is the point anyway. It's chaotic, negative; there are mighty obstacles to overcome. 
 
-1. Have a mighty big adventure
-2. Pursue its bliss
-3. Remember who it is and where it comes from
-4. Become a better version of itself (closer to its true essence of love)
-
-But the environment of the game is not a pleasant one, which is the point anyway. It's chaotic, negative; there are mighty obstacles to overcome.
-
-But the biggest obstacle of all is the amnesia; upon landing in this game world, the character has to forget everything for a fresh start. Everything the character knows it still knows, but not at a conscious level. There’s a filter.
+But the biggest obstacle of all is the amnesia. Upon landing in this game world, the character has to forget everything for a fresh start. Everything the character knows it still knows, but not at a conscious level. There’s a filter.
 
 The character has its guidance and its emotions to indicate when it's failing. Those are its advantages in the game.
 
-_And so with a heart full of optimism, the game is on_
+And so with a heart full of optimism, the game is on.
 
-The character entered this game world forgetting not only the game plan but itself. And thus, its journey of remembrance began.
+The character entered this game world forgetting not only the game plan, but itself. And thus, its journey of remembrance began. 
 
 But it is not an easy journey.
 
-Soon, it starts to identify not as the projected awareness but the body of the character, because that is what it can see, that is what is real to it.
+Soon, it start to identify not as the projected awareness but the body of the character, because that is what it can see, that is what is real to it. 
 
-The chaos and confusion would soon get to it. Its entire focus would be on the outside, on how to survive by every means possible (forgetting that it cannot really die). The agenda of the game is forgotten.
+The chaos and confusion would soon get to it. Its entire focus would be on the outside, on how to survive by every means possible (forgetting that it cannot really die). The agenda of the game is forgotten. 
 
-It views the game as a punishment and wonders sometimes what it did to deserve it.
+It views the game as a punishment and wonders sometimes what it did to deserve it. Myths emerge to explain the nature of its crime and the meaning of the life it is living; entire religions are formed on that basis. 
 
-Myths emerge to explain the nature of its crime and the meaning of the life it is living, entire religions are formed on that basis.
+Meanwhile, it has completely forgotten about the guidance available to it. It feels lost, and alone. The game is no longer an adventure, just constant struggle. 
 
-Meanwhile, it has completely forgotten about the guidance available to it. It feels lost, and alone. The game is no longer an adventure, just a constant struggle.
+Because it has lost connection with its inner guidance, it now relies on other people to tell it what to do and how to live. It obeys and does everything right, but still cannot find lasting happiness. 
 
-Because it has lost connection with its inner guidance, it now relies on other people to tell it what to do and how to live. It obeys and does everything right, but still cannot find lasting happiness.
+Even when it is able to find success by the standard of the game world, it cannot shake off the feeling that there's something more. It attempts to fill the vacuum with things and people and tries to control other people and situations to feel alright. But this brings about a lot of frustration and disappointment.
 
-Even when it is able to find success by the standard of the game world, it cannot shake off the feeling that there's something missing. It attempts to fill the vacuum with things and people and tries to control other people and situations to feel alright. But this brings about a lot of frustration and disappointment.
+It doesn't lose its desire for happiness however; it just doesn’t know how to find the lasting type. It pursues and accumulates material things, but the happiness they bring is fleeting at best. There's constant stress, diseases. The body ages, deteriorates. And suddenly, it's game over. 
 
-It doesn't lose its desire for happiness, however; it just doesn’t know how to find the lasting type. It pursues and accumulates material things, but the happiness they bring is fleeting at best. There's constant stress, diseases. The body ages and deteriorates. And suddenly, it's game over.
+The projected part, the awareness of The Character goes back home to The Player and reviews what just happened, and prepares for another round.
 
-The awareness of the character goes back home to the player and reviews what just happened, and prepares for a second round.
+The game doesn’t end until The Character is able to awaken to the truth of who it is and develop its awareness to match that of The Player; loving, joyful, blissful, and free. Then the characters awareness ascends (merges with that of the player and goes back home) and no longer needs the game because it has learnt everything that needs to be learnt in the contrasting environment. 
 
-The game goes on and on.
+The Character is you and The Player is your Oversoul or personal God presence; this is the mother consciousness that your soul is a part of. It remains home while you experience this earthly sojourn. 
 
-It doesn't end until the character is able to awaken to the truth of who it is and develop its awareness to match that of the Player; loving, joyful, blissful, and free. Then the character's awareness ascends (merges with that of the player and goes back home) and no longer needs the game because it has learnt everything that needs to be learnt in the contrasting environment.
+Indeed the energy of the consciousness that you are is too much for this earthly body that if all of it was to inhabit the body, it will explode.
 
-The character is you and the player is your higher self or oversoul; the parent part of your soul that remains home in the loving embrace of God, while you experience this earthly sojourn.
+The game world is earth, a planet among uncountable others in the universe, where a pre-requisite of the game is forgetfulness. As such, the majority of its inhabitants are lost and have forgotten who they are and why they are here.
 
-The game world is earth, a planet among billions of others in the cosmos, where a pre-requisite of the game is forgetfulness. As such, the majority of its inhabitants are lost and have forgotten who they are and why they are here.
+The good thing is, it’s not too late to remember and to get on top of the game. 
 
-The good thing is, it’s not too late to remember and to get on top of the game.
+Some people will awaken within the game today, others in a thousand years to come, in another planet. It doesn’t matter. We will all go back home eventually.
 
-Some people will awaken within the game today, others in a thousand years to come, probably on another planet. It doesn’t matter. We will all go back home eventually.
+If you’re one of those who are fed up with the illusion and drama, It gives me great fulfilment to offer you the answers you’re seeking.
 
-To win the game of life, you need to know and understand the 12 laws of the universe. 
+To win the game of life, you need to know and understand the 12 laws of the universe. These are not laws in the sense that they are restrictions, they are gifts that if we understand them sufficiently enough and apply them in our lives within the game, we will not only be on top of the game, we will evolve so rapidly, our journey back home will be quick, seamless and joyful.
 
-These are not laws in the sense that they are restrictions, they are gifts that if we understand them sufficiently enough and apply them in our lives within the game, we will not only be on top of the game, we will evolve so rapidly, our journey back home will be quick, seamless and joyful.
+Watch out for the part 2 of this post where I talk in details about the 12 laws of the universe.
 
-Watch out for part 2 of this post where I talk in detail about the 12 laws of the universe.

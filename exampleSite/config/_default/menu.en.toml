@@ -12,8 +12,7 @@ weight = 2
 
 [[main]]
 name = "Podcast"
-url = "coaching"
-weight = 3
+url = "https://infinitude.buzzsprout.com"
 
 [[main]]
 name = "Videos"
