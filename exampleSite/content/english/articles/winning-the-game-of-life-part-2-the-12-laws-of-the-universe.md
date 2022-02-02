@@ -3,7 +3,6 @@ author = "Jamila Mustapha"
 categories = ["awakening"]
 date = 2022-02-01T16:00:00Z
 description = "The 12 laws of the universe"
-draft = true
 image = "/images/sacred5.jpg"
 title = "Winning the Game of Life – Part 2: The 12 Laws of the Universe"
 type = "post"
