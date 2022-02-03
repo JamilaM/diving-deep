@@ -8,7 +8,7 @@ title = "What Happens When We Sleep? An Esoteric Explanation"
 type = "post"
 
 +++
-<div id="buzzsprout-player-10006770"></div><script src="https://www.buzzsprout.com/1931984/10006770-what-happens-when-we-sleep.js?container_id=buzzsprout-player-10006770&player=small" type="text/javascript" charset="utf-8"></script>
+[**Listen Here**](https://www.buzzsprout.com/1931984/episodes/10006770-what-happens-when-we-sleep) **for an audio recording of this article.**
 
 We are all familiar to some degree that the housekeeping of our bodies occurs during sleep; restoring balance, filtering toxins. Our brains rewire and organise the inputs we’ve fed into it during our wakeful state.
 
