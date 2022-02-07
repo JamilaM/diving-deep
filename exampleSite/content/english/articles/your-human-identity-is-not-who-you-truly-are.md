@@ -3,7 +3,6 @@ author = "Jamila Mustapha"
 categories = ["Awakening"]
 date = 2022-02-07T12:00:00Z
 description = "Your self-concept, the little human identity you have created for yourself is an illusion, a very pervasive one. You are not this person, you are having the experience of being this person. That's a huge difference."
-draft = true
 image = "/images/sacred7.jpg"
 title = "Your Human Identity is not Who you Truly are"
 type = "post"
